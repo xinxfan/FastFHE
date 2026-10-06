@@ -46,3 +46,9 @@ We can use a set of serialized context and keys with the argument `load_keys` as
 ```
 ./FHEcontroller_CKKS_RESNET
 ```
+
+#### Citation:
+
+Xinxin Fan, Wenbo Song, Quanliang Jing, Chi Lin, Shaoye Luo, Wenqi Wei, Chi Lin, Yunfeng Lu, Ling Liu. FastFHE: Packing-Scalable and Depthwise-Separable CNN Inference Over Fully Homomorphic Encryption. arXiv:2511.22434v1, 2025. 
+
+
